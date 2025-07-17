@@ -1,0 +1,46 @@
+Software License Agreement
+Preamble
+
+This Software License Agreement (the "Agreement") is a legal agreement between you (either an individual or a single entity) and the original author(s) ("the Licensor") of the accompanying software and associated materials (the "Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install or use the Software.
+
+1. Grant of License
+
+Subject to the terms and conditions of this Agreement, the Licensor grants you a non-exclusive, non-transferable, limited license to use the Software.
+
+2. Restrictions on Use
+
+You are expressly prohibited from the following:
+
+2.1. Artificial Intelligence and Machine Learning: You may not use the Software, in whole or in part, for the purposes of training, developing, or operating any artificial intelligence, machine learning model, or any other form of automated data analysis without the express prior written consent of the Licensor. This includes, but is not limited to, using the Software's code, data, or outputs for training neural networks, deep learning models, or any other AI-driven system.
+
+2.2. AI Streaming: You are strictly prohibited from using the Software in any way that involves streaming or making the Software's functionality available to any artificial intelligence or machine learning system.
+
+3. Modifications and Derivative Works
+
+3.1. Free Software: If you have obtained the Software for free, you are permitted to modify, adapt, and create derivative works of the Software, provided that you:
+
+Clearly credit the original Licensor.
+
+Include a copy of this license with any distribution of your modified version.
+
+3.2. Paid Software: If you have paid for the Software, you may not modify, adapt, or create derivative works without the express prior written permission of the Licensor. Any and all changes require the Licensor's explicit consent.
+
+4. Distribution
+
+4.1. Free Software: You may distribute the Software freely, provided it is not for commercial gain and you adhere to the terms in section 3.1.
+
+4.2. Paid Software: You may not distribute, sublicense, rent, lease, or lend the Software to any third party.
+
+5. Disclaimer of Warranty
+
+The Software is provided "as is" without warranty of any kind. The Licensor further disclaims all implied warranties, including without limitation any implied warranties of merchantability or of fitness for a particular purpose. The entire risk arising out of the use or performance of the Software and documentation remains with you.
+
+6. Limitation of Liability
+
+In no event shall the Licensor be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this product, even if the Licensor has been advised of the possibility of such damages.
+
+7. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor resides.
